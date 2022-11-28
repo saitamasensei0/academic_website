@@ -19,11 +19,10 @@ role: Software Engineer at Samsung R&D
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Samsung R&D, Delhi. 
-    url: https://www.stanford.edu/
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include Artificial Intelligence and Natural Language Processing
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
